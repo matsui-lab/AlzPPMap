@@ -1,0 +1,19 @@
+{
+  "net_names": [
+      "/home/kitani/ROSMAP/rosmap.proteomics/rosmap_output/out.dir.kitani/net_bionic_sig/ppi_bionic_mci.mild.txt",
+      "/home/kitani/ROSMAP/rosmap.proteomics/rosmap_output/out.dir.kitani/net_bionic_sig/co_expression_bionic_mci.mild.txt"
+  ],
+  "out_name": "/home/kitani/ROSMAP/rosmap.proteomics/rosmap_output/out.dir.kitani/net_bionic_sig/dim_512_mci.mild/",
+  "epochs": 2123,
+  "batch_size": 2048,
+  "learning_rate": 0.0005830944755717023,
+  "gat_shapes": {
+    "dimension": 68,
+    "n_heads": 10,
+    "n_layers": 3
+  },
+  "delimiter": "\t",
+  "embedding_size": 512,
+  "save_model": false,
+  "model_parallel": true
+}
