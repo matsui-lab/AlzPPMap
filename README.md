@@ -1,4 +1,4 @@
-# Integrative　Network-Analysis　for　early-stage Alzheimer's disease
+# Integrative Network-Analysis for early-stage Alzheimer's disease
 
 This repository contains the scripts and data used in the study titled "Integrative Network Analysis Reveals Novel Moderators of Aβ-Tau Interaction in Alzheimer's Disease", which investigates the mechanisms of interaction between amyloid-beta (Aβ) and tau proteins. The study applies deep learning-based network integration methods to uncover factors that moderate Aβ-tau interactions, providing insights into early-stage Alzheimer's disease (AD) pathology.
 
