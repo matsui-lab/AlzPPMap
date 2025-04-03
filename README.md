@@ -18,3 +18,4 @@ To reproduce the results of this study, it is important to first obtain the nece
 - Controlled Access Data: For data that requires controlled access, please apply for access through the appropriate data portals. 
 
 ## Citation
+Kitani, A., Matsui, Y. & for the Alzheimer’s Disease Neuroimaging Initiative. Integrative network analysis reveals novel moderators of Aβ-Tau interaction in Alzheimer's disease. Alz Res Therapy 17, 70 (2025). https://doi.org/10.1186/s13195-025-01705-x
